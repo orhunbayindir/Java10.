@@ -1,0 +1,20 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¹‹ó¿ıÿÿÿÿ8¹¿Ã¿‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í„©¶úÿÿÿÿ8Ã¿Ã¿‘1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8Æ¿Ã¿‘1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(í„©¶úÿÿÿÿ8Ç¿Ã¿‘1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8È¿Ã¿‘1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(í„©¶úÿÿÿÿ8È¿Ã¿‘1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8É¿Ã¿‘1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(í„©¶úÿÿÿÿ8É¿Ã¿‘1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(í„©¶úÿÿÿÿ8Ê¿Ã¿‘1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(±Æ©¯øÿÿÿÿ8Ë¿Ã¿‘1
+]
+java:S1854Y";Remove this useless assignment to local variable "kontrol".(µÓŒ¹ÿÿÿÿÿ8Ë¿Ã¿‘1
+]
+java:S1854V";Remove this useless assignment to local variable "kontrol".(°ôšùÿÿÿÿ8Ë¿Ã¿‘1
+I
+java:S1481R",Remove this unused "kontrol" local variable.(ƒ¸£¶8Ì¿Ã¿‘1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(±Æ©¯øÿÿÿÿ8Í¿Ã¿‘1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ØÜ£š8Í¿Ã¿‘1

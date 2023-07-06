@@ -1,0 +1,1 @@
+ilkBaslangicDegeri=150;
